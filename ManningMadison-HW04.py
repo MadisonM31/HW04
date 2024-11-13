@@ -3,7 +3,6 @@
 # 11/12/2024
 # HW 04
 # Lab Section: 10
-# Sources, people worked with, help given to: 
 
 from pathlib import Path 
 imp_path = Path("prompt.txt")
